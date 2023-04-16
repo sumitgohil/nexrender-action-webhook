@@ -1,0 +1,29 @@
+{
+  "name": "nexrender-action-webhook",
+  "version": "1.0.3",
+  "description": "Nexrender Action that calls a Weebhook once the job has been finished.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitgohil/nexrender-action-webhook.git"
+  },
+  "keywords": [
+    "nexrender",
+    "nexrender",
+    "action",
+    "nexrender",
+    "webhook"
+  ],
+  "author": "Sumit Gohil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitgohil/nexrender-action-webhook/issues"
+  },
+  "homepage": "https://github.com/sumitgohil/nexrender-action-webhook#readme",
+  "dependencies": {
+    "axios": "^1.3.5"
+  }
+}
