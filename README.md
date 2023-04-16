@@ -13,7 +13,7 @@ To deploy this project run
 ```json
 {
     "actions": {
-        "prerender": [
+        "postrender": [
             {
                "module": "nexrender-action-webhook",
                     "webHookUrl": "WEBHOOK_URL",

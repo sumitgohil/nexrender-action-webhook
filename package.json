@@ -1,6 +1,6 @@
 {
   "name": "nexrender-action-webhook",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Nexrender Action that calls a Weebhook once the job has been finished.",
   "main": "index.js",
   "scripts": {
